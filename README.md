@@ -2,7 +2,7 @@
 This is your basic phonebook that stores names and numbers.
 The phonebook will allow you to go back and edit names and numbers also.
 
-
+<img src="phonebookGUI.png" width=300>
 
 # How to Compile:
 Download Project as zip
